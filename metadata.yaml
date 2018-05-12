@@ -1,10 +1,16 @@
 _repo: Margaret-Mahaney-Talks-About-Turkeys_47067
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47067-h/images/cover.jpg
 creator:
   author:
     agent_name: Mahaney, Margaret
     gutenberg_agent_id: '44117'
     url: http://www.gutenberg.org/2009/agents/44117
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47067#Margaret-Mahaney-Talks-About-Turkeys
 gutenberg_issued: '2014-10-06'
 gutenberg_type: Text
 identifiers:
